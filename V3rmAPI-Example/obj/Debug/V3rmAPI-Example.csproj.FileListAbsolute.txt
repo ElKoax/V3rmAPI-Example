@@ -1,0 +1,11 @@
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI_Example.Form1.resources
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI_Example.Properties.Resources.resources
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI-Example.csproj.GenerateResource.cache
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI-Example.csproj.CoreCompileInputs.cache
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\bin\Debug\V3rmAPI-Example.exe.config
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\bin\Debug\V3rmAPI-Example.exe
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\bin\Debug\V3rmAPI-Example.pdb
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\bin\Debug\V3rmAPI.dll
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI-Example.csproj.CopyComplete
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI-Example.exe
+D:\repos\V3rmAPI-Example\V3rmAPI-Example\obj\Debug\V3rmAPI-Example.pdb
